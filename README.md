@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img alt="" src="https://github.com/geon2419/geon2419/blob/main/bluetree.gif?raw=true" width="100%">
+<img alt="" src="https://github.com/geon2419/geon2419/blob/main/bluetree.gif?raw=true" width="50%">
