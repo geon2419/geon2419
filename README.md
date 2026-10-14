@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **geon2419/geon2419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img alt="" src="https://github.com/geon2419/geon2419/blob/main/bluetree.gif?raw=true" width="100%">
